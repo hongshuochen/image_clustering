@@ -3,7 +3,7 @@
 Please refer to this [jupyter notebook](image_clustering.ipynb) example.
 
 ```python
-image_cluster = ImageClustering(num_clusters=64, batch_size=100, num_bins=[12,2,2], color_space="hsv", random_state=0, num_workers=32)
+image_cluster = ImageClustering(num_clusters=64, batch_size=100, num_bins=[12,4,4], color_space="hsv", random_state=0, num_workers=32)
 ```
 
 You can change color space and num_bins for each color.
@@ -23,3 +23,5 @@ yuv
 ![](img/cluster_55.png)
 ![](img/cluster_56.png)
 ![](img/cluster_35.png)
+
+Please contact me at hongshuo@usc.edu if you have any questions.
