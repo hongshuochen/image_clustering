@@ -16,6 +16,7 @@ ycrcb
 luv
 yuv
 ```
+Please contact me at hongshuo@usc.edu if you have any questions.
 
 ![](img/cluster_14.png)
 ![](img/cluster_32.png)
@@ -24,4 +25,4 @@ yuv
 ![](img/cluster_56.png)
 ![](img/cluster_35.png)
 
-Please contact me at hongshuo@usc.edu if you have any questions.
+
